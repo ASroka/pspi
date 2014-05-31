@@ -48,6 +48,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
 1. [Paweł Rogoziński](https://github.com/pawelr/zaliczenie).
    [Gdańsk](http://slides.com/pawelr/gdansk).[Strona www](http://pawelr.github.io/).
 1. Andrzej Sroka.
+[Wędkarstwo](http://slides.com/tintin/deck#/)
 1. [Iwona Szałkowska](https://github.com/iszalkowska/NOWY-DOM-inspiracje).
    [Moja strona internetowa](http://iszalkowska.github.io),
    [Kreta](http://slid.es/iszalkowska/moje-woj),
