@@ -47,7 +47,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
    [Prezentacja](http://slides.com/tomaszpiasecki/rajskie-miejsca-na-ziemi)
 1. [Paweł Rogoziński](https://github.com/pawelr/zaliczenie).
    [Gdańsk](http://slides.com/pawelr/gdansk).[Strona www](http://pawelr.github.io/).
-1. Andrzej Sroka.
+1. [Andrzej Sroka](https://github.com/ASroka/Ryby/blob/master/README.md).
 1. [Iwona Szałkowska](https://github.com/iszalkowska/NOWY-DOM-inspiracje).
    [Moja strona internetowa](http://iszalkowska.github.io),
    [Kreta](http://slid.es/iszalkowska/moje-woj),
